@@ -9,6 +9,7 @@ using WebApi.Models;
 
 namespace WebApi.Controllers
 {
+    //[EnableCors(origins: "http://localhost:3000/", headers: "*", methods: "*")]
     public class DepartmentController : ApiController
     {
         public HttpResponseMessage Get()

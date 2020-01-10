@@ -1,8 +1,6 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http.Headers;
+﻿using System.Net.Http.Headers;
 using System.Web.Http;
+using System.Web.Http.Cors;
 
 namespace WebApi
 {
@@ -23,6 +21,7 @@ namespace WebApi
             //Force the WebApi send the response in JSON Format
             config.Formatters.JsonFormatter.SupportedMediaTypes.Add(
                 new MediaTypeHeaderValue("text/html"));
+            config.EnableCors(new EnableCorsAttribute("http://localhost:3000", "*", "*"));
         }
     }
 }

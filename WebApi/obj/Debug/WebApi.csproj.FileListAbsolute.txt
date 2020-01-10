@@ -52,7 +52,9 @@ C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Mic
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Microsoft.Web.Infrastructure.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Newtonsoft.Json.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Net.Http.Formatting.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Cors.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Helpers.dll
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.Cors.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.WebHost.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Mvc.dll
@@ -62,10 +64,11 @@ C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Sys
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.WebPages.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.WebPages.Razor.dll
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\WebGrease.dll
-C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Newtonsoft.Json.xml
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Net.Http.Formatting.xml
-C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Helpers.xml
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.xml
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.Cors.xml
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\Newtonsoft.Json.xml
+C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Helpers.xml
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Http.WebHost.xml
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Mvc.xml
 C:\Users\rudph\Documents\Visual Studio 2017\Trips\TripTrackerLive\WebApi\bin\System.Web.Optimization.xml
